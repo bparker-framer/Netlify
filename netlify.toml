@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "https://www.frarner.com/*"
+  to = "http://18.132.248.226/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://frarner.com/*"
+  to = "https://www.frarner.com"
+  status = 302
+  force = true
